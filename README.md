@@ -1,3 +1,3 @@
 # Amazon-Clone
 <br>
-Author-ManojKumar
+Author-ManojKumarGoud
